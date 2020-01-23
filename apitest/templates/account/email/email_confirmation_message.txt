@@ -1,0 +1,4 @@
+{% load account %}{% load i18n %}{% autoescape off %}{% user_display user as user_display %}
+For activation of the user {{ user_display }} account to click on  {{ activate_url }}
+{% endautoescape %}
+Thank you
