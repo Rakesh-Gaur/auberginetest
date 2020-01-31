@@ -128,8 +128,8 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # Email backend settings for Django
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'abhi05jann@gmail.com'
-EMAIL_HOST_PASSWORD = 'Abhi415#'
+EMAIL_HOST_USER = 'XXXXXX@gmail.com'
+EMAIL_HOST_PASSWORD = '******'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
